@@ -30,7 +30,7 @@ namespace Incohearent_Game
                     }
                     else if (input == "g")
                     {
-                        // user gives up, show them the answer
+                        // user gives up
                     }
                     else
                     {
