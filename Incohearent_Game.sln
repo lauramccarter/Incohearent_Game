@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Incohearent_Game", "Incohearent_Game\Incohearent_Game.csproj", "{E86FF1D0-F0B4-4B36-B408-FD4F13954F32}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{34217FCC-F0E4-4811-812F-AC9A36859848}"
+	ProjectSection(SolutionItems) = preProject
+		Incohearent_Game\Cards.txt = Incohearent_Game\Cards.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E86FF1D0-F0B4-4B36-B408-FD4F13954F32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E86FF1D0-F0B4-4B36-B408-FD4F13954F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E86FF1D0-F0B4-4B36-B408-FD4F13954F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E86FF1D0-F0B4-4B36-B408-FD4F13954F32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A8A1DCE-D1C9-4844-A549-601F631F8352}
+	EndGlobalSection
+EndGlobal

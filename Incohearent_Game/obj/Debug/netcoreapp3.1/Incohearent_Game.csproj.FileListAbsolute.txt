@@ -1,0 +1,13 @@
+C:\Users\Laura_000\source\repos\Incohearent_Game\Incohearent_Game\bin\Debug\netcoreapp3.1\Incohearent_Game.exe
+C:\Users\Laura_000\source\repos\Incohearent_Game\Incohearent_Game\bin\Debug\netcoreapp3.1\Incohearent_Game.deps.json
+C:\Users\Laura_000\source\repos\Incohearent_Game\Incohearent_Game\bin\Debug\netcoreapp3.1\Incohearent_Game.runtimeconfig.json
+C:\Users\Laura_000\source\repos\Incohearent_Game\Incohearent_Game\bin\Debug\netcoreapp3.1\Incohearent_Game.runtimeconfig.dev.json
+C:\Users\Laura_000\source\repos\Incohearent_Game\Incohearent_Game\bin\Debug\netcoreapp3.1\Incohearent_Game.dll
+C:\Users\Laura_000\source\repos\Incohearent_Game\Incohearent_Game\bin\Debug\netcoreapp3.1\Incohearent_Game.pdb
+C:\Users\Laura_000\source\repos\Incohearent_Game\Incohearent_Game\obj\Debug\netcoreapp3.1\Incohearent_Game.csprojAssemblyReference.cache
+C:\Users\Laura_000\source\repos\Incohearent_Game\Incohearent_Game\obj\Debug\netcoreapp3.1\Incohearent_Game.AssemblyInfoInputs.cache
+C:\Users\Laura_000\source\repos\Incohearent_Game\Incohearent_Game\obj\Debug\netcoreapp3.1\Incohearent_Game.AssemblyInfo.cs
+C:\Users\Laura_000\source\repos\Incohearent_Game\Incohearent_Game\obj\Debug\netcoreapp3.1\Incohearent_Game.csproj.CoreCompileInputs.cache
+C:\Users\Laura_000\source\repos\Incohearent_Game\Incohearent_Game\obj\Debug\netcoreapp3.1\Incohearent_Game.dll
+C:\Users\Laura_000\source\repos\Incohearent_Game\Incohearent_Game\obj\Debug\netcoreapp3.1\Incohearent_Game.pdb
+C:\Users\Laura_000\source\repos\Incohearent_Game\Incohearent_Game\obj\Debug\netcoreapp3.1\Incohearent_Game.genruntimeconfig.cache
